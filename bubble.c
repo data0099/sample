@@ -24,8 +24,14 @@ int main()
 	printf("%d\n",array[i]);
 	return 0;
 }
+
+
+uuyujfuykuki
+ukyuyuyuy
+
 fjqwebrgfasevzs
 a
 sar;ghqwrea;gqaDWT[QW3TBWrv\]\wr]wr
 
 wtghawirfvasdvj8pygrb
+
