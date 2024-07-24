@@ -24,3 +24,7 @@ int main()
 	printf("%d\n",array[i]);
 	return 0;
 }
+
+
+uuyujfuykuki
+ukyuyuyuy
